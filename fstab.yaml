@@ -1,3 +1,5 @@
 mountpoints:
   /:
     url: "https://adobe.sharepoint.com/sites/cg-helix/Shared%20Documents"
+
+# the fstab
